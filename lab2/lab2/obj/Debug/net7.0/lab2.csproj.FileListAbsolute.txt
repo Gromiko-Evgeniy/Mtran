@@ -1,0 +1,45 @@
+D:\6 sem\mtran\labs\lab2\lab2\bin\Debug\net7.0\lab2.exe
+D:\6 sem\mtran\labs\lab2\lab2\bin\Debug\net7.0\lab2.deps.json
+D:\6 sem\mtran\labs\lab2\lab2\bin\Debug\net7.0\lab2.runtimeconfig.json
+D:\6 sem\mtran\labs\lab2\lab2\bin\Debug\net7.0\lab2.dll
+D:\6 sem\mtran\labs\lab2\lab2\bin\Debug\net7.0\lab2.pdb
+D:\6 sem\mtran\labs\lab2\lab2\obj\Debug\net7.0\lab2.csproj.AssemblyReference.cache
+D:\6 sem\mtran\labs\lab2\lab2\obj\Debug\net7.0\lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\6 sem\mtran\labs\lab2\lab2\obj\Debug\net7.0\lab2.AssemblyInfoInputs.cache
+D:\6 sem\mtran\labs\lab2\lab2\obj\Debug\net7.0\lab2.AssemblyInfo.cs
+D:\6 sem\mtran\labs\lab2\lab2\obj\Debug\net7.0\lab2.csproj.CoreCompileInputs.cache
+D:\6 sem\mtran\labs\lab2\lab2\obj\Debug\net7.0\lab2.dll
+D:\6 sem\mtran\labs\lab2\lab2\obj\Debug\net7.0\refint\lab2.dll
+D:\6 sem\mtran\labs\lab2\lab2\obj\Debug\net7.0\lab2.pdb
+D:\6 sem\mtran\labs\lab2\lab2\obj\Debug\net7.0\lab2.genruntimeconfig.cache
+D:\6 sem\mtran\labs\lab2\lab2\obj\Debug\net7.0\ref\lab2.dll
+D:\Study\Univer\Mtran\lab2\lab2\lab2\bin\Debug\net7.0\lab2.exe
+D:\Study\Univer\Mtran\lab2\lab2\lab2\bin\Debug\net7.0\lab2.deps.json
+D:\Study\Univer\Mtran\lab2\lab2\lab2\bin\Debug\net7.0\lab2.runtimeconfig.json
+D:\Study\Univer\Mtran\lab2\lab2\lab2\bin\Debug\net7.0\lab2.dll
+D:\Study\Univer\Mtran\lab2\lab2\lab2\bin\Debug\net7.0\lab2.pdb
+D:\Study\Univer\Mtran\lab2\lab2\lab2\obj\Debug\net7.0\lab2.csproj.AssemblyReference.cache
+D:\Study\Univer\Mtran\lab2\lab2\lab2\obj\Debug\net7.0\lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Univer\Mtran\lab2\lab2\lab2\obj\Debug\net7.0\lab2.AssemblyInfoInputs.cache
+D:\Study\Univer\Mtran\lab2\lab2\lab2\obj\Debug\net7.0\lab2.AssemblyInfo.cs
+D:\Study\Univer\Mtran\lab2\lab2\lab2\obj\Debug\net7.0\lab2.csproj.CoreCompileInputs.cache
+D:\Study\Univer\Mtran\lab2\lab2\lab2\obj\Debug\net7.0\lab2.dll
+D:\Study\Univer\Mtran\lab2\lab2\lab2\obj\Debug\net7.0\refint\lab2.dll
+D:\Study\Univer\Mtran\lab2\lab2\lab2\obj\Debug\net7.0\lab2.pdb
+D:\Study\Univer\Mtran\lab2\lab2\lab2\obj\Debug\net7.0\lab2.genruntimeconfig.cache
+D:\Study\Univer\Mtran\lab2\lab2\lab2\obj\Debug\net7.0\ref\lab2.dll
+D:\Study\Univer\Mtran\lab2\lab2\bin\Debug\net7.0\lab2.exe
+D:\Study\Univer\Mtran\lab2\lab2\bin\Debug\net7.0\lab2.deps.json
+D:\Study\Univer\Mtran\lab2\lab2\bin\Debug\net7.0\lab2.runtimeconfig.json
+D:\Study\Univer\Mtran\lab2\lab2\bin\Debug\net7.0\lab2.dll
+D:\Study\Univer\Mtran\lab2\lab2\bin\Debug\net7.0\lab2.pdb
+D:\Study\Univer\Mtran\lab2\lab2\obj\Debug\net7.0\lab2.csproj.AssemblyReference.cache
+D:\Study\Univer\Mtran\lab2\lab2\obj\Debug\net7.0\lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Univer\Mtran\lab2\lab2\obj\Debug\net7.0\lab2.AssemblyInfoInputs.cache
+D:\Study\Univer\Mtran\lab2\lab2\obj\Debug\net7.0\lab2.AssemblyInfo.cs
+D:\Study\Univer\Mtran\lab2\lab2\obj\Debug\net7.0\lab2.csproj.CoreCompileInputs.cache
+D:\Study\Univer\Mtran\lab2\lab2\obj\Debug\net7.0\lab2.dll
+D:\Study\Univer\Mtran\lab2\lab2\obj\Debug\net7.0\refint\lab2.dll
+D:\Study\Univer\Mtran\lab2\lab2\obj\Debug\net7.0\lab2.pdb
+D:\Study\Univer\Mtran\lab2\lab2\obj\Debug\net7.0\lab2.genruntimeconfig.cache
+D:\Study\Univer\Mtran\lab2\lab2\obj\Debug\net7.0\ref\lab2.dll

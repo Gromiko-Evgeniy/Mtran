@@ -1,0 +1,30 @@
+D:\6 sem\mtran\labs\lab3mtran\lab3mtran\bin\Debug\net6.0\lab3mtran.exe
+D:\6 sem\mtran\labs\lab3mtran\lab3mtran\bin\Debug\net6.0\lab3mtran.deps.json
+D:\6 sem\mtran\labs\lab3mtran\lab3mtran\bin\Debug\net6.0\lab3mtran.runtimeconfig.json
+D:\6 sem\mtran\labs\lab3mtran\lab3mtran\bin\Debug\net6.0\lab3mtran.dll
+D:\6 sem\mtran\labs\lab3mtran\lab3mtran\bin\Debug\net6.0\lab3mtran.pdb
+D:\6 sem\mtran\labs\lab3mtran\lab3mtran\obj\Debug\net6.0\lab3mtran.csproj.AssemblyReference.cache
+D:\6 sem\mtran\labs\lab3mtran\lab3mtran\obj\Debug\net6.0\lab3mtran.GeneratedMSBuildEditorConfig.editorconfig
+D:\6 sem\mtran\labs\lab3mtran\lab3mtran\obj\Debug\net6.0\lab3mtran.AssemblyInfoInputs.cache
+D:\6 sem\mtran\labs\lab3mtran\lab3mtran\obj\Debug\net6.0\lab3mtran.AssemblyInfo.cs
+D:\6 sem\mtran\labs\lab3mtran\lab3mtran\obj\Debug\net6.0\lab3mtran.csproj.CoreCompileInputs.cache
+D:\6 sem\mtran\labs\lab3mtran\lab3mtran\obj\Debug\net6.0\lab3mtran.dll
+D:\6 sem\mtran\labs\lab3mtran\lab3mtran\obj\Debug\net6.0\refint\lab3mtran.dll
+D:\6 sem\mtran\labs\lab3mtran\lab3mtran\obj\Debug\net6.0\lab3mtran.pdb
+D:\6 sem\mtran\labs\lab3mtran\lab3mtran\obj\Debug\net6.0\lab3mtran.genruntimeconfig.cache
+D:\6 sem\mtran\labs\lab3mtran\lab3mtran\obj\Debug\net6.0\ref\lab3mtran.dll
+D:\Study\Univer\Mtran\lab3mtran\lab3mtran\bin\Debug\net6.0\lab3mtran.exe
+D:\Study\Univer\Mtran\lab3mtran\lab3mtran\bin\Debug\net6.0\lab3mtran.deps.json
+D:\Study\Univer\Mtran\lab3mtran\lab3mtran\bin\Debug\net6.0\lab3mtran.runtimeconfig.json
+D:\Study\Univer\Mtran\lab3mtran\lab3mtran\bin\Debug\net6.0\lab3mtran.dll
+D:\Study\Univer\Mtran\lab3mtran\lab3mtran\bin\Debug\net6.0\lab3mtran.pdb
+D:\Study\Univer\Mtran\lab3mtran\lab3mtran\obj\Debug\net6.0\lab3mtran.csproj.AssemblyReference.cache
+D:\Study\Univer\Mtran\lab3mtran\lab3mtran\obj\Debug\net6.0\lab3mtran.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Univer\Mtran\lab3mtran\lab3mtran\obj\Debug\net6.0\lab3mtran.AssemblyInfoInputs.cache
+D:\Study\Univer\Mtran\lab3mtran\lab3mtran\obj\Debug\net6.0\lab3mtran.AssemblyInfo.cs
+D:\Study\Univer\Mtran\lab3mtran\lab3mtran\obj\Debug\net6.0\lab3mtran.csproj.CoreCompileInputs.cache
+D:\Study\Univer\Mtran\lab3mtran\lab3mtran\obj\Debug\net6.0\lab3mtran.dll
+D:\Study\Univer\Mtran\lab3mtran\lab3mtran\obj\Debug\net6.0\refint\lab3mtran.dll
+D:\Study\Univer\Mtran\lab3mtran\lab3mtran\obj\Debug\net6.0\lab3mtran.pdb
+D:\Study\Univer\Mtran\lab3mtran\lab3mtran\obj\Debug\net6.0\lab3mtran.genruntimeconfig.cache
+D:\Study\Univer\Mtran\lab3mtran\lab3mtran\obj\Debug\net6.0\ref\lab3mtran.dll
